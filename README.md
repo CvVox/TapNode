@@ -16,7 +16,7 @@
 
 #### Library Usage
 
-    var tapnode = require('./tapnode');
+    var tapnode = require('tapnode');
     
     tapnode.encode('water');
     //..... .. . . .... .... . ..... .... ..
